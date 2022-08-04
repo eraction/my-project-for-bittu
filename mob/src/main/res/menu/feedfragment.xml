@@ -1,0 +1,34 @@
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item
+		android:id="@+id/favorite"
+		android:title="@string/mark_as_favorite"
+		app:showAsAction="ifRoom"/>
+	<item
+		android:id="@+id/sort"
+		android:icon="@drawable/ic_sort_universal"
+		android:title="@string/sort"
+		app:showAsAction="ifRoom"/>
+	<item
+		android:id="@+id/search"
+		android:icon="@drawable/ic_search_universal"
+		android:title="@android:string/search_go"
+		app:showAsAction="ifRoom"/>
+	<item
+		android:id="@+id/refresh"
+		android:icon="@drawable/ic_refresh_universal"
+		android:title="@string/refresh"
+		app:showAsAction="ifRoom"/>
+	<item
+		android:id="@+id/edit_title"
+		android:title="@string/edit_feed_title"
+		app:showAsAction="never"/>
+	<item
+		android:id="@+id/create_shortcut"
+		android:title="@string/add_shortcut"
+		app:showAsAction="never"/>
+
+</menu>

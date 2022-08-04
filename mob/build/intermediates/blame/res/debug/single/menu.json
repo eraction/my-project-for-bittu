@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\menu\\navigationview.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\menu\\navigationview.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\menu\\feedfragment.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\menu\\feedfragment.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\menu\\articlefragment.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\menu\\articlefragment.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\menu\\bookmarksfragment.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\menu\\bookmarksfragment.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\menu\\mixfragment.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\menu\\mixfragment.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\menu\\backup.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\menu\\backup.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\menu\\universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\menu\\universal.xml"
+    }
+]

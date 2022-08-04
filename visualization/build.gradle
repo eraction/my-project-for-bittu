@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'com.github.dcendents.android-maven'
+group='vk.com/broken_justice'
+
+android {
+    compileSdkVersion TARGET_SDK
+    buildToolsVersion BUILD_TOOLS
+    defaultConfig {
+        minSdkVersion MIN_SDK
+        targetSdkVersion TARGET_SDK
+        versionCode VERSION_CODE
+        versionName VERSION_NAME
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+    implementation "com.android.support:support-v4:$SUPPORT_LIBS"
+    implementation "com.android.support:appcompat-v7:$SUPPORT_LIBS"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$KOTLIN"
+}

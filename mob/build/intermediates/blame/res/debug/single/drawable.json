@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\00a7019845bad30ebd155849d430c256\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_settings_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_refresh.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bookmark_border_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_bookmark_border_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_weekend_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_weekend_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favorite_border_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_favorite_border_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_weekend.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_weekend.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_search_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_folder.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_folder.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bookmark_border.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_bookmark_border.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favorite_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_favorite_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sort_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_sort_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cloud_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_cloud_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_explore_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_explore_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launch.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_launch.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_language_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_language_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bookmark_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_bookmark_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\chip.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\chip.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_explore.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_explore.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launch_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_launch_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\00a7019845bad30ebd155849d430c256\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favorite.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_share_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_share_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favorite_border.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_favorite_border.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\00a7019845bad30ebd155849d430c256\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_folder_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_folder_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_language.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_language.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cloud.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_cloud.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sort.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bookmark.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_bookmark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_list_divider_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v14-27.0.2.aar\\a238ebe2cb8d765a760f2bf831ef4285\\res\\drawable\\preference_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\00a7019845bad30ebd155849d430c256\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_universal.xml",
+        "source": "E:\\projectera\\New folder\\mob\\src\\main\\res\\drawable\\ic_refresh_universal.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable\\abc_tab_indicator_material.xml"
+    }
+]

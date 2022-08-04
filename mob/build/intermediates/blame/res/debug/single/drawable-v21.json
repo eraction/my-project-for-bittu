@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\preference_list_divider_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\preference-v14-27.0.2.aar\\a238ebe2cb8d765a760f2bf831ef4285\\res\\drawable-v21\\preference_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\00a7019845bad30ebd155849d430c256\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\drawable-v21\\avd_hide_password.xml"
+    }
+]

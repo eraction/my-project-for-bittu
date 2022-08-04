@@ -1,0 +1,37 @@
+buildscript {
+    ext.APP_ID = "andrewkhokhlov"
+    ext.VERSION_NAME = "6.0.9"
+    ext.VERSION_CODE = 62
+    ext.TARGET_SDK = 27
+    ext.MIN_SDK = 17
+    ext.BUILD_TOOLS = "27.0.3"
+    ext.SUPPORT_LIBS = "27.0.2"
+    ext.PLAY_SERVICES = "11.6.2"
+    ext.KOTLIN = "1.2.10"
+    ext.ANKO = "0.10.4"
+    repositories {
+        jcenter()
+        mavenCentral()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.2'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$KOTLIN"
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.0'
+    }
+}
+
+plugins {
+    id 'com.github.ben-manes.versions' version '0.17.0'
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        mavenCentral()
+        google()
+        maven { url "https://jitpack.io" }
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+        maven { url 'https://dl.bintray.com/jetbrains/anko' }
+    }
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: co.metalab.asyncawait:asyncawait-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asyncawait-1.0.0.aar/c8684ad76873831fa28be266855fa50f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/asyncawait-1.0.0.aar/c8684ad76873831fa28be266855fa50f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.metalab.asyncawait/asyncawait/1.0.0/357e0f6716698116df9ce293f9a00f125e561958/asyncawait-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\fscv_fade_out.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\FancyShowCaseView-1.0.0.aar\\e4d35def12aa2dfdeab8d788f1a85fa0\\res\\anim\\fscv_fade_out.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\02f1f0a4551f09e7f12f585db85eb269\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\fscv_fade_in.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\FancyShowCaseView-1.0.0.aar\\e4d35def12aa2dfdeab8d788f1a85fa0\\res\\anim\\fscv_fade_in.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\anim\\tooltip_enter.xml"
+    }
+]

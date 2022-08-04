@@ -1,0 +1,4 @@
+#Tue Jun 05 04:56:00 GMT+04:00 2018
+base.0=E\:\\projectera\\New folder\\mob\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+path.0=classes.dex
+renamed.0=classes.dex

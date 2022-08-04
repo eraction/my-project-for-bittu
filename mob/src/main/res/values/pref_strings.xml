@@ -1,0 +1,25 @@
+
+<resources>
+
+	<string name="prefs_key_clear_cache" translatable="false">clear_cache</string>
+	<string name="prefs_key_clear_history" translatable="false">clear_history</string>
+	<string name="prefs_key_user_name" translatable="false">username</string>
+	<string name="prefs_key_access_token" translatable="false">accesstoken</string>
+	<string name="prefs_key_custom_tabs" translatable="false">custom_tabs</string>
+	<string name="prefs_key_last_version" translatable="false">last_version</string>
+	<string name="prefs_key_view_libs" translatable="false">view_libs</string>
+	<string name="prefs_key_view_apis" translatable="false">view_apis</string>
+	<string name="prefs_key_about_nc" translatable="false">about_nc</string>
+	<string name="prefs_key_amp" translatable="false">amp</string>
+	<string name="prefs_key_sync" translatable="false">sync</string>
+	<string name="prefs_key_sync_now" translatable="false">sync_now</string>
+	<string name="prefs_key_sync_interval" translatable="false">sync_interval</string>
+	<string name="prefs_key_backup" translatable="false">backup</string>
+	<string name="prefs_key_url_shortener" translatable="false">url_shortener</string>
+	<string name="prefs_key_issue" translatable="false">issue</string>
+	<string name="prefs_key_import_opml" translatable="false">import_opml</string>
+	<string name="prefs_key_show_tutorial" translatable="false">show_tutorial</string>
+	<string name="prefs_key_show_recent_feeds" translatable="false">show_recent_feeds</string>
+	<string name="prefs_key_show_recommended_feeds" translatable="false">show_recommended_feeds</string>
+
+</resources>

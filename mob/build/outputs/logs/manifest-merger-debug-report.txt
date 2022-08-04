@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+MERGED from [com.mikepenz:fastadapter:3.0.5] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\fastadapter-3.0.5.aar\9a6d5f0ebaa1943988ae5ad574344269\AndroidManifest.xml:2:1-12:12
+MERGED from [com.mikepenz:fastadapter-extensions:3.0.5] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-3.0.5.aar\83fa33095871a936b6bb78b50cdb0f64\AndroidManifest.xml:2:1-12:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\02f1f0a4551f09e7f12f585db85eb269\AndroidManifest.xml:2:1-15:12
+MERGED from [:main] E:\projectera\New folder\main\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5453aa4ed852963020d1383cfaebf01d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android:flexbox:0.3.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\flexbox-0.3.2.aar\c2dcfb32054db2c51ef79d497957d342\AndroidManifest.xml:17:1-27:12
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:2:1-65:12
+MERGED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:6:1-23:12
+MERGED from [com.github.faruktoptas:FancyShowCaseView:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\FancyShowCaseView-1.0.0.aar\e4d35def12aa2dfdeab8d788f1a85fa0\AndroidManifest.xml:2:1-14:12
+MERGED from [:visualization] E:\projectera\New folder\visualization\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a6d7108a0be41003c053f9f5064ca586\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\preference-v14-27.0.2.aar\a238ebe2cb8d765a760f2bf831ef4285\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\preference-v7-27.0.2.aar\cb99657c6855d95175a606abe8bc145a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\8c80c25ff5868581def9cc5c9241fd53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\61964bf97c39daec9b0d1c28e1b793b0\AndroidManifest.xml:17:1-22:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\4c39753aaeea850879e902c5c3aad8fe\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d8a745a8de2bc6df52ebc1fbd7c5967f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\247c8c4b94bef4ebe39cecef281df296\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\10e3018006f6b6c1049e0d536a0c4901\AndroidManifest.xml:17:1-22:12
+MERGED from [co.metalab.asyncawait:asyncawait:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\asyncawait-1.0.0.aar\c8684ad76873831fa28be266855fa50f\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\71d241a8ca2efd17a28dc3d288e860c6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\48aa16951c07d92057173013cc54332a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f91c899d5b9ef6ae0ec5b9644555daa0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\bb023b2b3b0d9ac9c09f875d99f0155d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\980e00f184d63c2235f7ce302009d0bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9c2233b643c8d5db984b82d93a0f925c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a926272361b8839e0eda8a556d257753\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e53ba0d5d0b5b094972f62d6e2fcfbdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\00a7019845bad30ebd155849d430c256\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cb450f6578571bff7edb428300619f7a\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+	package
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:9:2-23
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:8:2-48
+	android:versionCode
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:1-74:12
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:7:11-69
+	android:installLocation
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:10:2-32
+uses-permission#android.permission.INTERNET
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:12:2-64
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:12:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:13:2-76
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:13:5-79
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:13:19-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:14:2-78
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:14:5-81
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:14:19-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:15:2-65
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:12:5-68
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:15:19-62
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:16:2-85
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:16:19-82
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:17:2-87
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:17:19-84
+uses-permission#com.android.vending.BILLING
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:18:2-64
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:18:19-61
+uses-feature#android.hardware.touchscreen
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:20:2-22:30
+	android:required
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:22:3-27
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:21:3-46
+application
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:24:2-72:16
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\02f1f0a4551f09e7f12f585db85eb269\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\02f1f0a4551f09e7f12f585db85eb269\AndroidManifest.xml:13:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5453aa4ed852963020d1383cfaebf01d\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5453aa4ed852963020d1383cfaebf01d\AndroidManifest.xml:11:5-20
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:16:5-63:19
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:16:5-63:19
+MERGED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:16:5-21:19
+MERGED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:16:5-21:19
+MERGED from [com.github.faruktoptas:FancyShowCaseView:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\FancyShowCaseView-1.0.0.aar\e4d35def12aa2dfdeab8d788f1a85fa0\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.faruktoptas:FancyShowCaseView:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\FancyShowCaseView-1.0.0.aar\e4d35def12aa2dfdeab8d788f1a85fa0\AndroidManifest.xml:11:5-12:19
+MERGED from [co.metalab.asyncawait:asyncawait:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\asyncawait-1.0.0.aar\c8684ad76873831fa28be266855fa50f\AndroidManifest.xml:11:5-14:19
+MERGED from [co.metalab.asyncawait:asyncawait:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\asyncawait-1.0.0.aar\c8684ad76873831fa28be266855fa50f\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\71d241a8ca2efd17a28dc3d288e860c6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\71d241a8ca2efd17a28dc3d288e860c6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:29:3-29
+	android:label
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:28:3-35
+	tools:ignore
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:16:18-44
+	android:icon
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:27:3-37
+	android:allowBackup
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:26:3-30
+		REJECTED from [co.metalab.asyncawait:asyncawait:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\asyncawait-1.0.0.aar\c8684ad76873831fa28be266855fa50f\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:30:3-34
+	tools:replace
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:31:3-38
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:25:3-38
+activity#ankh.eranews.add.activity.Activity
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:33:3-60:14
+	android:label
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:37:4-36
+	android:launchMode
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:38:4-35
+	android:exported
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:36:4-27
+	android:configChanges
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:35:4-34
+	android:theme
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:39:4-35
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:34:4-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:41:4-44:20
+action#android.intent.action.MAIN
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:42:5-57
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:42:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:43:5-65
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:43:15-62
+intent-filter#action:name:android.intent.action.VIEW+action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:http+data:scheme:https
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:46:4-54:20
+action#android.intent.action.VIEW
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:47:5-57
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:47:13-54
+category#android.intent.category.DEFAULT
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:48:5-64
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:48:15-61
+category#android.intent.category.BROWSABLE
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:50:5-66
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:50:15-63
+data
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:52:5-35
+	android:scheme
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:52:11-32
+intent-filter#action:name:com.google.android.gms.actions.SEARCH_ACTION+category:name:android.intent.category.DEFAULT
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:56:4-59:20
+action#com.google.android.gms.actions.SEARCH_ACTION
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:57:5-75
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:57:13-72
+meta-data#android.max_aspect
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:63:3-65:26
+	android:value
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:65:4-23
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:64:4-37
+service#com.evernote.android.job.gcm.PlatformGcmService
+ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:68:3-70:26
+REJECTED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:50:9-58:19
+	tools:node
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:70:4-23
+	android:name
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml:69:4-66
+uses-sdk
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+MERGED from [com.mikepenz:fastadapter:3.0.5] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\fastadapter-3.0.5.aar\9a6d5f0ebaa1943988ae5ad574344269\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:3.0.5] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\fastadapter-3.0.5.aar\9a6d5f0ebaa1943988ae5ad574344269\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions:3.0.5] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-3.0.5.aar\83fa33095871a936b6bb78b50cdb0f64\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter-extensions:3.0.5] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\fastadapter-extensions-3.0.5.aar\83fa33095871a936b6bb78b50cdb0f64\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\02f1f0a4551f09e7f12f585db85eb269\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\02f1f0a4551f09e7f12f585db85eb269\AndroidManifest.xml:8:5-11:75
+MERGED from [:main] E:\projectera\New folder\main\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:main] E:\projectera\New folder\main\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5453aa4ed852963020d1383cfaebf01d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\glide-4.5.0.aar\5453aa4ed852963020d1383cfaebf01d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android:flexbox:0.3.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\flexbox-0.3.2.aar\c2dcfb32054db2c51ef79d497957d342\AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android:flexbox:0.3.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\flexbox-0.3.2.aar\c2dcfb32054db2c51ef79d497957d342\AndroidManifest.xml:23:5-25:41
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:8:5-10:41
+MERGED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:8:5-10:41
+MERGED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:12:5-14:41
+MERGED from [com.github.faruktoptas:FancyShowCaseView:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\FancyShowCaseView-1.0.0.aar\e4d35def12aa2dfdeab8d788f1a85fa0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.faruktoptas:FancyShowCaseView:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\FancyShowCaseView-1.0.0.aar\e4d35def12aa2dfdeab8d788f1a85fa0\AndroidManifest.xml:7:5-9:41
+MERGED from [:visualization] E:\projectera\New folder\visualization\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:visualization] E:\projectera\New folder\visualization\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a6d7108a0be41003c053f9f5064ca586\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a6d7108a0be41003c053f9f5064ca586\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\preference-v14-27.0.2.aar\a238ebe2cb8d765a760f2bf831ef4285\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\preference-v14-27.0.2.aar\a238ebe2cb8d765a760f2bf831ef4285\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\preference-v7-27.0.2.aar\cb99657c6855d95175a606abe8bc145a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\preference-v7-27.0.2.aar\cb99657c6855d95175a606abe8bc145a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\8c80c25ff5868581def9cc5c9241fd53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\8c80c25ff5868581def9cc5c9241fd53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\61964bf97c39daec9b0d1c28e1b793b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\61964bf97c39daec9b0d1c28e1b793b0\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\4c39753aaeea850879e902c5c3aad8fe\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\4c39753aaeea850879e902c5c3aad8fe\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d8a745a8de2bc6df52ebc1fbd7c5967f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\d8a745a8de2bc6df52ebc1fbd7c5967f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\247c8c4b94bef4ebe39cecef281df296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\247c8c4b94bef4ebe39cecef281df296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\10e3018006f6b6c1049e0d536a0c4901\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\10e3018006f6b6c1049e0d536a0c4901\AndroidManifest.xml:20:5-44
+MERGED from [co.metalab.asyncawait:asyncawait:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\asyncawait-1.0.0.aar\c8684ad76873831fa28be266855fa50f\AndroidManifest.xml:7:5-9:41
+MERGED from [co.metalab.asyncawait:asyncawait:1.0.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\asyncawait-1.0.0.aar\c8684ad76873831fa28be266855fa50f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\71d241a8ca2efd17a28dc3d288e860c6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.5.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.5.0.aar\71d241a8ca2efd17a28dc3d288e860c6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\48aa16951c07d92057173013cc54332a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\48aa16951c07d92057173013cc54332a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f91c899d5b9ef6ae0ec5b9644555daa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f91c899d5b9ef6ae0ec5b9644555daa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\bb023b2b3b0d9ac9c09f875d99f0155d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\bb023b2b3b0d9ac9c09f875d99f0155d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\980e00f184d63c2235f7ce302009d0bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\980e00f184d63c2235f7ce302009d0bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9c2233b643c8d5db984b82d93a0f925c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9c2233b643c8d5db984b82d93a0f925c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a926272361b8839e0eda8a556d257753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\a926272361b8839e0eda8a556d257753\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e53ba0d5d0b5b094972f62d6e2fcfbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e53ba0d5d0b5b094972f62d6e2fcfbdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\00a7019845bad30ebd155849d430c256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\00a7019845bad30ebd155849d430c256\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cb450f6578571bff7edb428300619f7a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\cb450f6578571bff7edb428300619f7a\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\02f1f0a4551f09e7f12f585db85eb269\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+		ADDED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+		INJECTED from E:\projectera\New folder\mob\src\main\AndroidManifest.xml
+service#com.evernote.android.job.v21.PlatformJobService
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:19:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:18:13-75
+service#com.evernote.android.job.v14.PlatformAlarmService
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:21:9-24:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:22:13-77
+service#com.evernote.android.job.v14.PlatformAlarmServiceExact
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:26:13-82
+receiver#com.evernote.android.job.v14.PlatformAlarmReceiver
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:29:9-38:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.evernote.android.job.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:32:13-37:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:35:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:36:25-75
+receiver#com.evernote.android.job.JobBootReceiver
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:39:9-48:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:40:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:42:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:43:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:43:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:44:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:45:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:46:25-81
+service#com.evernote.android.job.JobRescheduleService
+ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:59:9-62:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:61:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:62:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.1] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\android-job-1.2.1.aar\2244b734fe0c86e24d7b70ce8dd6d837\AndroidManifest.xml:60:13-73
+service#org.chromium.customtabsclient.KeepAliveService
+ADDED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:17:9-20:46
+	android:exported
+		ADDED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:19:13-36
+	tools:ignore
+		ADDED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:20:13-43
+	android:name
+		ADDED from [me.zhanghai.android.customtabshelper:library:1.0.4] C:\Users\erafromprodota\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\582f2dede3824ac37d8583dd338aa5fa\AndroidManifest.xml:18:13-74

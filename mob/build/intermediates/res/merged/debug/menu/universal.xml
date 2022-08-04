@@ -1,0 +1,12 @@
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item
+		android:id="@+id/share_app"
+		android:orderInCategory="1001"
+		android:title="@string/sharing_tt"
+		app:showAsAction="never"/>
+
+</menu>

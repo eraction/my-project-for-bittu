@@ -1,0 +1,16 @@
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item
+		android:id="@+id/bookmark"
+		android:title="@string/mark_as_bookmark"
+		app:showAsAction="ifRoom" />
+	<item
+		android:id="@+id/browser"
+		android:icon="@drawable/ic_language_universal"
+		android:title="@string/open_in_browser"
+		app:showAsAction="ifRoom" />
+
+</menu>

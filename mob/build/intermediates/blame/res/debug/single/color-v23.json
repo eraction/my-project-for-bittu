@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\a6d7108a0be41003c053f9f5064ca586\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\projectera\\New folder\\mob\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\erafromprodota\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\d8a745a8de2bc6df52ebc1fbd7c5967f\\res\\color-v23\\abc_tint_edittext.xml"
+    }
+]
